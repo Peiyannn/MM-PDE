@@ -4,6 +4,8 @@
 
 This paper introduces a neural-network-based mesh adapter called **Data-free Mesh Mover (DMM)**, which is trained in a physics-informed data-free way. The DMM can be embedded into the neural PDE solver through proper architectural design, called **MM-PDE**.
 
+<a href="url"><img src="./pics/burgers mesh8.png" align="center" width="700" ></a>
+
 ## Environment
 
 Install the environment using [conda](https://docs.conda.io/en/latest/miniconda.html) with attached environment file as follows.
