@@ -1,6 +1,6 @@
 # MM-PDE: Better Neural PDE Solvers Through Data-Free Mesh Movers
 
-[Link to the paper](https://arxiv.org/abs/2402.08383) (ICLR 2024)
+[Link to the paper](https://openreview.net/pdf?id=hj9ZuNimRl) (ICLR 2024)
 
 This paper introduces a neural-network-based mesh adapter called **Data-free Mesh Mover (DMM)**, which is trained in a physics-informed data-free way. The DMM can be embedded into the neural PDE solver through proper architectural design, called **MM-PDE**.
 
